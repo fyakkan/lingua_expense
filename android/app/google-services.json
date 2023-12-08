@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361547967416",
+    "project_id": "lingua-expense-cf9c7",
+    "storage_bucket": "lingua-expense-cf9c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361547967416:android:a93ed135ec1103de1cfd4d",
+        "android_client_info": {
+          "package_name": "com.example.lingua_expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACep_qe9K1LORsQu9KtHFIpHQ2Bwrh33Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
